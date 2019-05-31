@@ -1,0 +1,8 @@
+configs/*
+node_modules/*
+dist/*
+
+src/www/heatmap.html
+
+src/testRuckusRelease.pl
+npm-debug.log
